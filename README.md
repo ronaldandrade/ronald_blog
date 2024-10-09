@@ -60,5 +60,5 @@ All blog posts are created in `.md` (Markdown) files.
 
 ## 📜 License
 
-Licensed under the MIT License, Copyright © 2023
+Licensed under the MIT License, Copyright © 2024
 
