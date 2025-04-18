@@ -2,7 +2,7 @@
 author: Ronald Andrade
 pubDatetime: 2025-04-15T00:45:00Z
 title: Testes de segurança de IA em risco 
-postSlug: segurando-de-inteligência-artificial
+postSlug: seguranca-de-inteligência-artificial
 featured: true
 draft: false
 tags:
