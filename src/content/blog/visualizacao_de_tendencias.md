@@ -33,9 +33,9 @@ Aqui, vamos analisar a PETR4 e criar um candlestick com sinais de compra/venda, 
 
 **[matplotlib](https://matplotlib.org/)**
 
-**[seaborn](link)**
+**[seaborn](https://seaborn.pydata.org/)**
 
-**[mplfinance](link)**
+**[mplfinance](https://pypi.org/project/mpl-finance/)**
 
 ## Instalar as Bibliotecas
 
